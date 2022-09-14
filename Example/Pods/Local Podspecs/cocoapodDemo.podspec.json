@@ -1,0 +1,22 @@
+{
+  "name": "cocoapodDemo",
+  "version": "0.1.0",
+  "summary": "A short description of cocoapodDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cocoapodDemo\u001b[C/cocoapodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cocoapodDemo\u001b[C": "kplteotia@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/cocoapodDemo\u001b[C/cocoapodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "cocoapodDemo/Classes/**/*"
+}
